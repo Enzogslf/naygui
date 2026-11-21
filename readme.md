@@ -1,4 +1,5 @@
 # Naygui
+uses Paycei/naylib instead of planetis-m/naylib for newer updates to naylib
 
 Welcome to this repository! Here you'll find a Nim wrapper for raygui, an auxiliar module for raylib to create simple GUI interfaces.
 
