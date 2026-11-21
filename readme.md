@@ -12,7 +12,7 @@ https://github.com/raysan5/raygui/
 ## Installation
 
 ```
-nimble install https://github.com/planetis-m/naygui.git
+nimble install https://github.com/Enzogslf/naygui.git
 ```
 
 ## Examples
