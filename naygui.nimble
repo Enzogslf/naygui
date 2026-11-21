@@ -1,6 +1,6 @@
 # Package
 
-version     = "25.25.0"
+version     = "6.2.1"
 author      = "Antonis Geralis"
 description = "Raygui Nim wrapper"
 license     = "MIT"
