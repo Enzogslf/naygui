@@ -9,7 +9,7 @@ srcDir      = "src"
 # Deps
 
 requires "nim >= 2.2.0"
-requires "https://github.com/Paycei/naylib"
+requires "https://github.com/Paycei/naylib >= 6.2.1"
 #requires "eminim == 2.8.2"
 
 task test, "Runs the test suite":
